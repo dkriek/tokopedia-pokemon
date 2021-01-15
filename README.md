@@ -1,5 +1,5 @@
 # Link Live Demo 
-
+Berikut ini link demo untuk pokemon list menggunakan react js.
 My Pokemon List Link Live Demo : https://mypokemon.000webhostapp.com/
 
 # Getting Started with Create React App
